@@ -6,7 +6,5 @@ def convert_to_base3(n):
         s+=str(x)
     return s[::-1]
 
-print(convert_to_base3(20))
-
          
 
