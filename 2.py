@@ -8,5 +8,4 @@ def last_char(str1,str2):
             i+=1
     return count
 
-str1=input()
-str2=input()
+print(last_char("going to go to goa","go"))
